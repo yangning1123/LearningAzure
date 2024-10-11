@@ -1,0 +1,9 @@
+{
+	"name": "learningazuredatafactory123",
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e0b2b15-981f-4204-9e64-100d7f4406d1",
+		"tenantId": "ef802939-384a-4bf7-b7e5-ecfaecf80427"
+	}
+}
